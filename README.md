@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
 <td width="230" valign="top" align="center">
 
-<img src="assets/profile.png" width="200" alt="Swapnaj" />
+<img src="woody.png" width="200" alt="Swapnaj" />
 
 </td>
 
