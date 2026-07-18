@@ -36,11 +36,12 @@ Status      Building production-inspired systems
 
 ├─ OS          Arch Linux
 ├─ Shell       fish
-├─ Editor      VS Code
+├─ Editor      NeoVim • VS Code
 ├─ Languages   Python • TypeScript • Java • C
 ├─ DevOps      Docker • Kubernetes • Terraform
 ├─ Cloud       AWS
-├─ Interests   Linux • Infrastructure • Automation
+├─ Interests   Linux • Cloud • DevOps
+├─             Infrastructure • Automation 
 ├─ Featured    HomeLab • Cloud Sentinel
 ├─             Aliasly • Receipt
 └─ Colors      ● ● ● ● ● ● ● ●
